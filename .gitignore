@@ -1,0 +1,4 @@
+.DS_Store
+.env
+config/koneksi.php
+config/test_koneksi.php
