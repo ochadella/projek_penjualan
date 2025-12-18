@@ -1,0 +1,5 @@
+[25-Nov-2025 08:15:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'jumlah' in 'field list' in /Applications/MAMP/htdocs/projek_penjualan/views/superadmin/barang/TambahBarang.php:54
+Stack trace:
+#0 /Applications/MAMP/htdocs/projek_penjualan/views/superadmin/barang/TambahBarang.php(54): mysqli->prepare('\n    INSERT INT...')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/projek_penjualan/views/superadmin/barang/TambahBarang.php on line 54
